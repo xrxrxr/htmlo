@@ -22,9 +22,3 @@ h3 {
 p {
     font-family: "ubuntu", Times, bold;
 }
-
-button
- {
-    color: yellow;
-}
-

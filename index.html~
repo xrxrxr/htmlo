@@ -66,11 +66,6 @@
     
     <h2>Epilogue</h2>
     <p>From the philosophies expressed (poorly) above, <a href="http://txti.es">txti</a> was created. You should try it today to make your own motherfucking websites.</p>
-
-
-<h3>Click the button to make psychadelic sh%t.</h3>
-
-<button onclick="myFunction()">Try it to go blind</button>
     
     <!-- yes, I know...wanna fight about it? -->
     <script>
