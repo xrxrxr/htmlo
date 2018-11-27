@@ -71,17 +71,31 @@
 <h3>Click the button to make psychadelic sh%t.</h3>
 
 <button onclick="myFunction()">Try it to go blind</button>
+<script>
+function init() {
+    var count=10;
+    var counter=setInterval(timer,1000);
+        function timer(){
+            count=count-1;
+            if(count==0){
+                alert("'go to XXXVIDSXXX to see little cats'")
+if (confirm("wanna go or cancel?")) {
+                window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";   
+} else { return false;
+}    
+                return;
+            } 
+        }
+    }
+    window.onload = init;
+function myFunction() {
+    var btn = document.createElement("BUTTON");
+    document.body.appendChild(btn);
+}
+</script>
     
     <!-- yes, I know...wanna fight about it? -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-45956659-1', 'motherfuckingwebsite.com');
-      ga('send', 'pageview');
-    </script>
-    
+     <script src="main.js"> 
+</script> 
 </body>
 </html>
