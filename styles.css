@@ -1,30 +1,47 @@
 body {
-    background-color : #636e72;
-    color: #f5f6fa;
+  background-color: #636e72;
+  color: #f5f6fa;
+  padding-left: 30 auto;
+  margin: 3 auto;
 }
 
-
 h1 {
-    color: #f5f6fa;
-    text-align: left;
+  color: #f5f6fa;
+  text-align: center;
+  padding-left: 30 auto;
+  margin: 3 auto;
 }
 
 h2 {
-    color: #f5f6fa;
-    text-align: left;
+  color: #f5f6fa;
+  text-align: left;
+  padding-left: 30 auto;
+  margin: 3 auto;
 }
 
 h3 {
-    color: #f5f6fa;
-    text-align: left;
+  color: #f5f6fa;
+  text-align: left;
+  padding-left: 30 auto;
+  margin: 3 auto;
 }
 
 p {
-    font-family: "ubuntu", Times, bold;
+  font-Family: "ubuntu", Times, bold;
+  margin: 3 auto;
+  text-align: left;
+  padding-left: 30 auto;
 }
 
-button
- {
-    color: purple;
+h4 {
+  color: #f5f6fa;
+  text-align: center;
+  padding-left: 30 auto;
+  margin: 3 auto;
 }
 
+button {
+  color: purple;
+  margin:auto;
+  display:block;
+}
